@@ -212,6 +212,26 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+# Streamlit secrets — never commit API keys or credentials
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Generated files
+knowledge_graph.html
+*.pdf
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
 __marimo__/
 
 # Streamlit
