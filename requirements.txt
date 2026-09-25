@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+pytesseract
+pdf2image
+neo4j
+groq
+gTTS
+plotly
+pyvis
+numpy
+sentence-transformers
+faiss-cpu
